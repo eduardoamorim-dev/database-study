@@ -4,9 +4,7 @@
 
 Repository created to store learning notes, references, scripts, and hands-on exercises about databases. Personal documentation for quick reference and continuous learning.
 
-## Sumary
-
-# Summary
+## Summary
 
 - [Glossary](https://github.com/eduardoamorim-dev/database-study/edit/main/README.md#glossary)
 - [Database Elements](https://github.com/eduardoamorim-dev/database-study/blob/main/README.md#database-elements)
