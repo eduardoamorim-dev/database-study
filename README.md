@@ -4,12 +4,10 @@ Repository created to store learning notes, references, scripts, and hands-on ex
 
 ## Summary
 
-- [Glossary](https://github.com/eduardoamorim-dev/database-study/edit/main/README.md#glossary)
-- [Database Elements](https://github.com/eduardoamorim-dev/database-study/blob/main/README.md#database-elements)
-- [Uploading Postgres to a container with Docker Compose](https://github.com/eduardoamorim-dev/database-study/blob/main/README.md#uploading-postgres-to-a-container-with-docker-compose)
+- [Glossary](https://github.com/eduardoamorim-dev/database-study?tab=readme-ov-file#glossary)
+- [Database Elements](https://github.com/eduardoamorim-dev/database-study?tab=readme-ov-file#database-elements)
+- [Uploading Postgres to a container with Docker Command and Docker Compose](https://github.com/eduardoamorim-dev/database-study?tab=readme-ov-file#uploading-postgresql-to-a-container-with-docker-command-and-docker-compose)
 - [Links](https://github.com/eduardoamorim-dev/database-study?tab=readme-ov-file#links)
-
-
 
 ## Glossary 
 
@@ -96,7 +94,7 @@ Repository created to store learning notes, references, scripts, and hands-on ex
 
 ---
 
-## Uploading PostgreSQL to a Container with Docker Compose
+## Uploading Postgres to a container with Docker Command and Docker Compose
 
 ### Prerequisites
 - PostgreSQL installed (optional for tools like `psql`)
