@@ -96,16 +96,15 @@ Repository created to store learning notes, references, scripts, and hands-on ex
 
 ## Uploading Postgres to a container with Docker Command and Docker Compose
 
-### Prerequisites
-- PostgreSQL installed (optional for tools like `psql`)
-- Docker installed
-- Docker Compose installed
-
----
 
 ### 1° Option - Create a PostgreSQL Container with Docker Command
 
-### Step-by-Step Setup Process
+**Prerequisites**
+
+- PostgreSQL installed (optional for tools like `psql`)
+- Docker installed
+
+**Step-by-Step Setup Process**
 
 1. **Create a Project Directory**
   
@@ -147,8 +146,6 @@ Keep in mind that this is a basic setup — any data you store will disappear if
 ---
 
 ### 2° Option - Create a PostgreSQL Container with Docker Compose
-
-### Step-by-Step Setup Process
 
 **Prerequisites**
 
