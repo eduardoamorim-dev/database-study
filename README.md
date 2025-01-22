@@ -1,5 +1,18 @@
 # 📊 DATABASE STUDY
 
+## 📚 Personal Notes and References
+
+Repository created to store learning notes, references, scripts, and hands-on exercises about databases. Personal documentation for quick reference and continuous learning.
+
+## Sumary
+
+# Summary
+
+- [Glossary](https://github.com/eduardoamorim-dev/database-study/edit/main/README.md#glossary)
+- [Database Elements](fundamentals/components.md)
+
+
+
 ## Glossary 
 
 <dl>
