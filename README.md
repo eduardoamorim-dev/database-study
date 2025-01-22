@@ -6,7 +6,7 @@ Repository created to store learning notes, references, scripts, and hands-on ex
 
 - [Glossary](https://github.com/eduardoamorim-dev/database-study?tab=readme-ov-file#glossary)
 - [Database Elements](https://github.com/eduardoamorim-dev/database-study?tab=readme-ov-file#database-elements)
-- [Uploading Postgres to a container with Docker Command and Docker Compose](https://github.com/eduardoamorim-dev/database-study?tab=readme-ov-file#uploading-postgresql-to-a-container-with-docker-command-and-docker-compose)
+- [Uploading Postgres to a container with Docker Command and Docker Compose](https://github.com/eduardoamorim-dev/database-study?tab=readme-ov-file#uploading-postgres-to-a-container-with-docker-command-and-docker-compose)
 - [Links](https://github.com/eduardoamorim-dev/database-study?tab=readme-ov-file#links)
 
 ## Glossary 
