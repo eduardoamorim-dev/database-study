@@ -185,6 +185,14 @@ services:
       - "5432:5432"  
     restart: always
 ```
+
+4. **Run this command in the terminal**
+
+```bash
+  docker compose up
+```
+  
+
 **Explanation:**
 
 This configuration creates a PostgreSQL database container with more structured settings. Think of it as creating a recipe for your database setup that can be easily replicated and modified.
