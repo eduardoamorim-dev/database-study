@@ -100,3 +100,5 @@ Repository created to store learning notes, references, scripts, and hands-on ex
 ## Links
 
 - https://www.postgresql.org/download/
+- https://www.w3schools.com/postgresql/postgresql_install.php
+- https://docs.docker.com/compose/
