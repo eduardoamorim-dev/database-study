@@ -9,7 +9,7 @@ Repository created to store learning notes, references, scripts, and hands-on ex
 # Summary
 
 - [Glossary](https://github.com/eduardoamorim-dev/database-study/edit/main/README.md#glossary)
-- [Database Elements](fundamentals/components.md)
+- [Database Elements](https://github.com/eduardoamorim-dev/database-study/blob/main/README.md#database-elements)
 
 
 
