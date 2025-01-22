@@ -8,7 +8,7 @@ Repository created to store learning notes, references, scripts, and hands-on ex
 
 - [Glossary](https://github.com/eduardoamorim-dev/database-study/edit/main/README.md#glossary)
 - [Database Elements](https://github.com/eduardoamorim-dev/database-study/blob/main/README.md#database-elements)
-- [Uploading Postgres to a container with Docker Compose](https://github.com/eduardoamorim-dev/database-study/edit/main/README.md#uploading-postgres-to-a-container-with-docker-compose)
+- [Uploading Postgres to a container with Docker Compose](https://github.com/eduardoamorim-dev/database-study/blob/main/README.md#uploading-postgres-to-a-container-with-docker-compose)
 
 
 
