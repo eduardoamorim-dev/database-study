@@ -1,6 +1,4 @@
-# 📊 DATABASE STUDY
-
-## 📚 Personal Notes and References
+# 📊 DATABASE - Personal Notes and References
 
 Repository created to store learning notes, references, scripts, and hands-on exercises about databases. Personal documentation for quick reference and continuous learning.
 
