@@ -92,6 +92,8 @@ Repository created to store learning notes, references, scripts, and hands-on ex
 
 ![dbase_components](https://github.com/user-attachments/assets/02a6b789-3dd6-48c9-a3c5-c41d49e4faee)
 
+<a href="https://teachcomputerscience.com/the-database-concept/">Reference<a>
+
 ---
 
 ## Uploading Postgres to a container with Docker Command and Docker Compose
