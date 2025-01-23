@@ -119,6 +119,16 @@ Repository created to store learning notes, references, scripts, and hands-on ex
   docker run --name pg -e POSTGRES_USER=root -e POSTGRES_PASSWORD=root -p 5432:5432 -d postgres
 ```
 
+**Command Structure**
+
+- `docker run` - Creates and starts a new container
+- `--name pg` - Names the container "pg"
+- `-e POSTGRES_USER=root` - Sets environment variable for the database username
+- `-e POSTGRES_PASSWORD=root` - Sets environment variable for the database password
+- `-p 5432:5432` - Maps host port to container port (HOST:CONTAINER)
+- `-d` - Runs container in detached mode (background)
+- `postgres` - The image to use (latest version by default)
+
 **Explanation**
 
 This command creates a new PostgreSQL database container with minimal configuration. Think of it like setting up a lightweight database server on your computer.
