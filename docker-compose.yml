@@ -1,0 +1,18 @@
+# This specifies the version of the Docker Compose file format being used.
+version: '3'
+
+services:
+  # This defines a service named 'postgres'.
+  postgres:
+    # This specifies the Docker image to use for the service.
+    image: postgres:latest
+    # This sets the name of the container.
+    container_name: databasestudy
+    # This section defines environment variables to be set in the container.
+    environment:
+      POSTGRES_USER: 'root'       # Sets the PostgreSQL user to 'root'.
+      POSTGRES_PASSWORD: 'root'   # Sets the PostgreSQL password to 'root'.
+    # This maps port 5433 on the host to port 5433 on the container.
+    ports:
+      - "5433:5433"
+
