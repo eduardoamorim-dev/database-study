@@ -8,6 +8,10 @@ services:
     image: postgres:latest
     # This sets the name of the container.
     container_name: databasestudy
+    # This mounts the local directory 'scripts' to the '/scripts' directory in the container.
+    volumes:
+      - ./scripts:/scripts
+      - ./scripts/0-create-database.sql:/docker-entrypoint-initdb.d/init.sql
     # This section defines environment variables to be set in the container.
     environment:
       POSTGRES_USER: 'root'       # Sets the PostgreSQL user to 'root'.
@@ -15,4 +19,3 @@ services:
     # This maps port 5433 on the host to port 5433 on the container.
     ports:
       - "5433:5433"
-
