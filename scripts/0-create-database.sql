@@ -9,3 +9,4 @@ CREATE DATABASE databasestudy;
 -- \dt - List the tables
 -- \q - Quit the database
 -- exit - Exit the container
+-- docker start name container - Start the container
