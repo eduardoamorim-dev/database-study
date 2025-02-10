@@ -17,3 +17,5 @@
 `docker start nameContainer` - Start the container
 
 `psql -f scripts/2-alter-table.sql` - Execute SQL commands from a file. (need to connect the database)
+
+`\! clear` - Clear docker terminal
